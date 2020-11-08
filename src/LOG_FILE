@@ -1,0 +1,6 @@
+[2020-10-31 22:14:51,623 INFO] PPL []
+[2020-11-07 23:05:39,534 INFO] PPL []
+[2020-11-07 23:06:32,472 INFO] PPL []
+[2020-11-07 23:06:41,330 INFO] PPL []
+[2020-11-07 23:07:01,203 INFO] Loading checkpoint from ../models/bert_transformer/model_step_500.pt
+[2020-11-07 23:07:15,127 INFO] Loading checkpoint from ./../models/bert_transformer/model_step_500.pt
